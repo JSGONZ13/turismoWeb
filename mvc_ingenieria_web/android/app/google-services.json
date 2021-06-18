@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "85194427004",
+    "project_id": "mvc-ingenieria-web",
+    "storage_bucket": "mvc-ingenieria-web.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85194427004:android:3e86fbf66a1910ac5897f9",
+        "android_client_info": {
+          "package_name": "com.example.mvc_ingenieria_web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85194427004-njino7q95utvjtoihknm6k3nuc8rn3nj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQXbSpCldvF9IElDDrY8G1DqHi53WWxmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85194427004-njino7q95utvjtoihknm6k3nuc8rn3nj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
