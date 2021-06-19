@@ -1,0 +1,36 @@
+Datos generales
+Nombre del atractivo turístico
+Categoría
+Tipo
+Sub-tipo
+Ubicación del atractivos
+Provincia
+Cantón
+Parroquia
+Barrio, Sector o Comuna
+Calle principal
+Número
+Transversal
+Latitud (grados decimales)
+Longitud (grados decimales)
+Altura
+Informador del administrador
+Tipo de administrador
+Nombre de la Institución
+Nombre del administrador
+Cargo que ocupa
+Teléfono / Celular
+Correo electrónico
+Observaciones
+Características del atractivo
+Características climatológicas
+Clima
+Temperatura
+Precipitación pluviométrica (mm)
+Línea de producto al que pertenece el atractivo
+Cultura
+Naturaleza
+Aventura
+
+Accesibilidad y conectividad al atractivo
+Planta turística / Complementarios
